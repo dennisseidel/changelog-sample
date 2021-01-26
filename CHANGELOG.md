@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/azdigital-health/sample-repo-changelog/compare/v1.1.0...v1.1.1) (2021-01-26)
+
+
+### Bug Fixes
+
+* fix feature two ([4bac2ff](https://github.com/azdigital-health/sample-repo-changelog/commit/4bac2ff4587e355eefde24315c4b68b6691a564c))
+
 ## 1.1.0 (2021-01-26)
 
 
