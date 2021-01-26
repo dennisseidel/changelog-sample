@@ -1,0 +1,12 @@
+{ 
+    "scripts": {
+      "postchangelog": "replace 'https://github.com/sample-repo-changelog/issues/' 'https://azdigital-health.atlassian.net/browse/' CHANGELOG.md"
+    }, 
+     "bumpFiles": [
+    {
+      "filename": "VERSION.txt",
+      // The `plain-text` updater assumes the file contents represents the version.
+      "type": "plain-text"
+    }
+     ]
+}
