@@ -1,6 +1,6 @@
 { 
     "scripts": {
-      "postchangelog": "replace 'https://github.com/sample-repo-changelog/issues/' 'https://azdigital-health.atlassian.net/browse/' CHANGELOG.md"
+      "postchangelog": ""
     }, 
      "bumpFiles": [
     {
