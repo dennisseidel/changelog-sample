@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/azdigital-health/sample-repo-changelog/compare/v1.1.1...v2.0.0) (2021-01-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* **feature2:** To simplify the API rename attribute x2 to x. Use the attribute x instead of x2
+
+* **feature2:** simplify feature two api ([fa82198](https://github.com/azdigital-health/sample-repo-changelog/commit/fa821987355b525dd3fc1bfa55f7575d958fa9b0)), closes [#UCE-153](https://github.com/azdigital-health/sample-repo-changelog/issues/UCE-153)
+
 ### [1.1.1](https://github.com/azdigital-health/sample-repo-changelog/compare/v1.1.0...v1.1.1) (2021-01-26)
 
 
