@@ -1,6 +1,6 @@
 { 
     "scripts": {
-      "postchangelog": ""
+      "postchangelog": "sed -i -e 's+https://github.com/azdigital-health/sample-repo-changelog/issues/+https://azdigital-health.atlassian.net/browse/+g' CHANGELOG.md && rm CHANGELOG.md-e"
     }, 
      "bumpFiles": [
     {
