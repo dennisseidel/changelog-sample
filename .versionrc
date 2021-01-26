@@ -5,7 +5,6 @@
      "bumpFiles": [
     {
       "filename": "VERSION.txt",
-      // The `plain-text` updater assumes the file contents represents the version.
       "type": "plain-text"
     }
      ]
